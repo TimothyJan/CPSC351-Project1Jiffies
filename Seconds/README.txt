@@ -21,4 +21,4 @@ output:
 Seconds: 4
 
 to remove:
-sudo rmmod seconds
+$ sudo rmmod seconds
