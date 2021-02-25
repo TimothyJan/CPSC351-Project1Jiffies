@@ -20,4 +20,4 @@ output:
 Jiffies: 4295526972
 
 to remove:
-sudo rmmod jiffies
+$ sudo rmmod jiffies
